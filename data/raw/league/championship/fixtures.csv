@@ -1,0 +1,241 @@
+gameweek,weekday,match_date,start_time,home_team,away_team
+27,Fri,2024-01-12,20:00:00,Hull City,Norwich City
+27,Sat,2024-01-13,12:30:00,Coventry City,Leicester City
+27,Sat,2024-01-13,15:00:00,Rotherham Utd,Stoke City
+27,Sat,2024-01-13,15:00:00,Preston,Bristol City
+27,Sat,2024-01-13,15:00:00,Southampton,Sheffield Weds
+27,Sat,2024-01-13,15:00:00,Huddersfield,Plymouth Argyle
+27,Sat,2024-01-13,15:00:00,Cardiff City,Leeds United
+27,Sat,2024-01-13,15:00:00,West Brom,Blackburn
+27,Sat,2024-01-13,15:00:00,Birmingham City,Swansea City
+27,Sat,2024-01-13,15:00:00,Millwall,Middlesbrough
+27,Sat,2024-01-13,17:30:00,Ipswich Town,Sunderland
+27,Sun,2024-01-14,12:00:00,QPR,Watford
+28,Fri,2024-01-19,20:00:00,Sunderland,Hull City
+28,Sat,2024-01-20,12:30:00,Swansea City,Southampton
+28,Sat,2024-01-20,15:00:00,Norwich City,West Brom
+28,Sat,2024-01-20,15:00:00,Middlesbrough,Rotherham Utd
+28,Sat,2024-01-20,15:00:00,QPR,Millwall
+28,Sat,2024-01-20,15:00:00,Blackburn,Huddersfield
+28,Sat,2024-01-20,15:00:00,Stoke City,Birmingham City
+28,Sat,2024-01-20,15:00:00,Sheffield Weds,Coventry City
+28,Sat,2024-01-20,15:00:00,Bristol City,Watford
+28,Sat,2024-01-20,15:00:00,Plymouth Argyle,Cardiff City
+28,Sun,2024-01-21,12:00:00,Leeds United,Preston
+28,Mon,2024-01-22,20:00:00,Leicester City,Ipswich Town
+29,Sat,2024-01-27,15:00:00,Leeds United,Norwich City
+29,Sat,2024-01-27,15:00:00,Birmingham City,Middlesbrough
+29,Sat,2024-01-27,15:00:00,Cardiff City,Blackburn
+29,Sat,2024-01-27,15:00:00,Plymouth Argyle,West Brom
+29,Sat,2024-01-27,15:00:00,Coventry City,Bristol City
+29,Sat,2024-01-27,15:00:00,Sheffield Weds,Watford
+29,Sat,2024-01-27,15:00:00,Ipswich Town,Rotherham Utd
+29,Sat,2024-01-27,15:00:00,Southampton,Hull City
+29,Sat,2024-01-27,15:00:00,Millwall,Preston
+29,Sat,2024-01-27,15:00:00,Leicester City,Swansea City
+29,Sat,2024-01-27,15:00:00,Sunderland,Stoke City
+29,Sun,2024-01-28,13:30:00,QPR,Huddersfield
+30,Fri,2024-02-02,20:00:00,Bristol City,Leeds United
+30,Sat,2024-02-03,15:00:00,Rotherham Utd,Southampton
+30,Sat,2024-02-03,15:00:00,Blackburn,QPR
+30,Sat,2024-02-03,15:00:00,Preston,Ipswich Town
+30,Sat,2024-02-03,15:00:00,Hull City,Millwall
+30,Sat,2024-02-03,15:00:00,West Brom,Birmingham City
+30,Sat,2024-02-03,15:00:00,Watford,Cardiff City
+30,Sat,2024-02-03,15:00:00,Swansea City,Plymouth Argyle
+30,Sat,2024-02-03,15:00:00,Huddersfield,Sheffield Weds
+30,Sat,2024-02-03,15:00:00,Stoke City,Leicester City
+30,Sat,2024-02-03,15:00:00,Norwich City,Coventry City
+30,Sun,2024-02-04,12:00:00,Middlesbrough,Sunderland
+31,Fri,2024-02-09,20:00:00,Sheffield Weds,Birmingham City
+31,Sat,2024-02-10,12:30:00,Ipswich Town,West Brom
+31,Sat,2024-02-10,15:00:00,QPR,Norwich City
+31,Sat,2024-02-10,15:00:00,Cardiff City,Preston
+31,Sat,2024-02-10,15:00:00,Hull City,Swansea City
+31,Sat,2024-02-10,15:00:00,Sunderland,Plymouth Argyle
+31,Sat,2024-02-10,15:00:00,Blackburn,Stoke City
+31,Sat,2024-02-10,15:00:00,Watford,Leicester City
+31,Sat,2024-02-10,15:00:00,Southampton,Huddersfield
+31,Sat,2024-02-10,15:00:00,Leeds United,Rotherham Utd
+31,Sat,2024-02-10,15:00:00,Middlesbrough,Bristol City
+31,Sun,2024-02-11,12:00:00,Coventry City,Millwall
+32,Tue,2024-02-13,19:45:00,Leicester City,Sheffield Weds
+32,Tue,2024-02-13,19:45:00,Swansea City,Leeds United
+32,Tue,2024-02-13,19:45:00,Birmingham City,Blackburn
+32,Tue,2024-02-13,19:45:00,Norwich City,Watford
+32,Tue,2024-02-13,19:45:00,Rotherham Utd,Hull City
+32,Tue,2024-02-13,20:00:00,West Brom,Cardiff City
+32,Tue,2024-02-13,20:00:00,Bristol City,Southampton
+32,Wed,2024-02-14,19:45:00,Preston,Middlesbrough
+32,Wed,2024-02-14,19:45:00,Huddersfield,Sunderland
+32,Wed,2024-02-14,19:45:00,Plymouth Argyle,Coventry City
+32,Wed,2024-02-14,19:45:00,Stoke City,QPR
+32,Wed,2024-02-14,20:00:00,Millwall,Ipswich Town
+33,Fri,2024-02-16,20:00:00,West Brom,Southampton
+33,Sat,2024-02-17,12:30:00,Plymouth Argyle,Leeds United
+33,Sat,2024-02-17,15:00:00,Birmingham City,Sunderland
+33,Sat,2024-02-17,15:00:00,Preston,Blackburn
+33,Sat,2024-02-17,15:00:00,Norwich City,Cardiff City
+33,Sat,2024-02-17,15:00:00,Leicester City,Middlesbrough
+33,Sat,2024-02-17,15:00:00,Stoke City,Coventry City
+33,Sat,2024-02-17,15:00:00,Bristol City,QPR
+33,Sat,2024-02-17,15:00:00,Rotherham Utd,Watford
+33,Sat,2024-02-17,15:00:00,Millwall,Sheffield Weds
+33,Sat,2024-02-17,15:00:00,Huddersfield,Hull City
+33,Sat,2024-02-17,15:00:00,Swansea City,Ipswich Town
+34,Fri,2024-02-23,20:00:00,Leeds United,Leicester City
+34,Sat,2024-02-24,12:30:00,Hull City,West Brom
+34,Sat,2024-02-24,15:00:00,Sheffield Weds,Bristol City
+34,Sat,2024-02-24,15:00:00,Southampton,Millwall
+34,Sat,2024-02-24,15:00:00,Blackburn,Norwich City
+34,Sat,2024-02-24,15:00:00,Coventry City,Preston
+34,Sat,2024-02-24,15:00:00,Sunderland,Swansea City
+34,Sat,2024-02-24,15:00:00,Middlesbrough,Plymouth Argyle
+34,Sat,2024-02-24,15:00:00,Watford,Huddersfield
+34,Sat,2024-02-24,15:00:00,QPR,Rotherham Utd
+34,Sat,2024-02-24,15:00:00,Ipswich Town,Birmingham City
+34,Sat,2024-02-24,15:00:00,Cardiff City,Stoke City
+35,Sat,2024-03-02,12:30:00,Huddersfield,Leeds United
+35,Sat,2024-03-02,15:00:00,Millwall,Watford
+35,Sat,2024-03-02,15:00:00,Stoke City,Middlesbrough
+35,Sat,2024-03-02,15:00:00,West Brom,Coventry City
+35,Sat,2024-03-02,15:00:00,Swansea City,Blackburn
+35,Sat,2024-03-02,15:00:00,Bristol City,Cardiff City
+35,Sat,2024-03-02,15:00:00,Birmingham City,Southampton
+35,Sat,2024-03-02,15:00:00,Norwich City,Sunderland
+35,Sat,2024-03-02,15:00:00,Plymouth Argyle,Ipswich Town
+35,Sat,2024-03-02,15:00:00,Leicester City,QPR
+35,Sat,2024-03-02,15:00:00,Rotherham Utd,Sheffield Weds
+35,Sat,2024-03-02,15:00:00,Preston,Hull City
+36,Tue,2024-03-05,19:45:00,Coventry City,Rotherham Utd
+36,Tue,2024-03-05,19:45:00,Hull City,Birmingham City
+36,Tue,2024-03-05,19:45:00,Ipswich Town,Bristol City
+36,Tue,2024-03-05,19:45:00,Leeds United,Stoke City
+36,Tue,2024-03-05,19:45:00,Sunderland,Leicester City
+36,Tue,2024-03-05,19:45:00,Blackburn,Millwall
+36,Wed,2024-03-06,19:45:00,Watford,Swansea City
+36,Wed,2024-03-06,19:45:00,QPR,West Brom
+36,Wed,2024-03-06,19:45:00,Cardiff City,Huddersfield
+36,Wed,2024-03-06,19:45:00,Middlesbrough,Norwich City
+36,Wed,2024-03-06,19:45:00,Southampton,Preston
+36,Wed,2024-03-06,19:45:00,Sheffield Weds,Plymouth Argyle
+37,Sat,2024-03-09,15:00:00,Sheffield Weds,Leeds United
+37,Sat,2024-03-09,15:00:00,Norwich City,Rotherham Utd
+37,Sat,2024-03-09,15:00:00,Huddersfield,West Brom
+37,Sat,2024-03-09,15:00:00,Preston,Stoke City
+37,Sat,2024-03-09,15:00:00,Southampton,Sunderland
+37,Sat,2024-03-09,15:00:00,Blackburn,Plymouth Argyle
+37,Sat,2024-03-09,15:00:00,Watford,Coventry City
+37,Sat,2024-03-09,15:00:00,Cardiff City,Ipswich Town
+37,Sat,2024-03-09,15:00:00,QPR,Middlesbrough
+37,Sat,2024-03-09,15:00:00,Millwall,Birmingham City
+37,Sat,2024-03-09,15:00:00,Hull City,Leicester City
+37,Sun,2024-03-10,12:30:00,Bristol City,Swansea City
+38,Sat,2024-03-16,15:00:00,Middlesbrough,Blackburn
+38,Sat,2024-03-16,15:00:00,Rotherham Utd,Huddersfield
+38,Sat,2024-03-16,15:00:00,Ipswich Town,Sheffield Weds
+38,Sat,2024-03-16,15:00:00,Swansea City,Cardiff City
+38,Sat,2024-03-16,15:00:00,Stoke City,Norwich City
+38,Sat,2024-03-16,15:00:00,Plymouth Argyle,Preston
+38,Sat,2024-03-16,15:00:00,Birmingham City,Watford
+38,Sat,2024-03-16,15:00:00,Coventry City,Hull City
+38,Sat,2024-03-16,15:00:00,Leeds United,Millwall
+38,Sat,2024-03-16,15:00:00,West Brom,Bristol City
+38,Sat,2024-03-16,15:00:00,Sunderland,QPR
+38,Sat,2024-03-16,15:00:00,Leicester City,Southampton
+39,Fri,2024-03-29,12:30:00,Bristol City,Leicester City
+39,Fri,2024-03-29,13:00:00,Millwall,West Brom
+39,Fri,2024-03-29,15:00:00,Southampton,Middlesbrough
+39,Fri,2024-03-29,15:00:00,Hull City,Stoke City
+39,Fri,2024-03-29,15:00:00,Sheffield Weds,Swansea City
+39,Fri,2024-03-29,15:00:00,QPR,Birmingham City
+39,Fri,2024-03-29,15:00:00,Cardiff City,Sunderland
+39,Fri,2024-03-29,15:00:00,Huddersfield,Coventry City
+39,Fri,2024-03-29,15:00:00,Norwich City,Plymouth Argyle
+39,Fri,2024-03-29,15:00:00,Blackburn,Ipswich Town
+39,Fri,2024-03-29,15:00:00,Watford,Leeds United
+39,Fri,2024-03-29,15:00:00,Preston,Rotherham Utd
+40,Mon,2024-04-01,15:00:00,Stoke City,Huddersfield
+40,Mon,2024-04-01,15:00:00,Swansea City,QPR
+40,Mon,2024-04-01,15:00:00,Plymouth Argyle,Bristol City
+40,Mon,2024-04-01,15:00:00,Middlesbrough,Sheffield Weds
+40,Mon,2024-04-01,15:00:00,Rotherham Utd,Millwall
+40,Mon,2024-04-01,15:00:00,Ipswich Town,Southampton
+40,Mon,2024-04-01,15:00:00,Sunderland,Blackburn
+40,Mon,2024-04-01,15:00:00,Birmingham City,Preston
+40,Mon,2024-04-01,15:00:00,Leicester City,Norwich City
+40,Mon,2024-04-01,15:00:00,West Brom,Watford
+40,Mon,2024-04-01,15:00:00,Coventry City,Cardiff City
+40,Mon,2024-04-01,15:00:00,Leeds United,Hull City
+41,Sat,2024-04-06,15:00:00,Coventry City,Leeds United
+41,Sat,2024-04-06,15:00:00,Watford,Preston
+41,Sat,2024-04-06,15:00:00,Huddersfield,Millwall
+41,Sat,2024-04-06,15:00:00,Rotherham Utd,Plymouth Argyle
+41,Sat,2024-04-06,15:00:00,Norwich City,Ipswich Town
+41,Sat,2024-04-06,15:00:00,Sunderland,Bristol City
+41,Sat,2024-04-06,15:00:00,Middlesbrough,Swansea City
+41,Sat,2024-04-06,15:00:00,Stoke City,West Brom
+41,Sat,2024-04-06,15:00:00,QPR,Sheffield Weds
+41,Sat,2024-04-06,15:00:00,Cardiff City,Hull City
+41,Sat,2024-04-06,15:00:00,Blackburn,Southampton
+41,Sat,2024-04-06,15:00:00,Leicester City,Birmingham City
+42,Tue,2024-04-09,19:45:00,Sheffield Weds,Norwich City
+42,Tue,2024-04-09,19:45:00,Preston,Huddersfield
+42,Tue,2024-04-09,19:45:00,Southampton,Coventry City
+42,Tue,2024-04-09,19:45:00,Millwall,Leicester City
+42,Tue,2024-04-09,19:45:00,Leeds United,Sunderland
+42,Tue,2024-04-09,19:45:00,Plymouth Argyle,QPR
+42,Wed,2024-04-10,19:45:00,Hull City,Middlesbrough
+42,Wed,2024-04-10,19:45:00,Ipswich Town,Watford
+42,Wed,2024-04-10,19:45:00,Birmingham City,Cardiff City
+42,Wed,2024-04-10,19:45:00,Swansea City,Stoke City
+42,Wed,2024-04-10,19:45:00,Bristol City,Blackburn
+42,Wed,2024-04-10,20:00:00,West Brom,Rotherham Utd
+43,Sat,2024-04-13,15:00:00,Swansea City,Rotherham Utd
+43,Sat,2024-04-13,15:00:00,West Brom,Sunderland
+43,Sat,2024-04-13,15:00:00,Bristol City,Huddersfield
+43,Sat,2024-04-13,15:00:00,Plymouth Argyle,Leicester City
+43,Sat,2024-04-13,15:00:00,Hull City,QPR
+43,Sat,2024-04-13,15:00:00,Preston,Norwich City
+43,Sat,2024-04-13,15:00:00,Southampton,Watford
+43,Sat,2024-04-13,15:00:00,Sheffield Weds,Stoke City
+43,Sat,2024-04-13,15:00:00,Ipswich Town,Middlesbrough
+43,Sat,2024-04-13,15:00:00,Millwall,Cardiff City
+43,Sat,2024-04-13,15:00:00,Birmingham City,Coventry City
+43,Sat,2024-04-13,15:00:00,Leeds United,Blackburn
+44,Sat,2024-04-20,15:00:00,Middlesbrough,Leeds United
+44,Sat,2024-04-20,15:00:00,Rotherham Utd,Birmingham City
+44,Sat,2024-04-20,15:00:00,QPR,Preston
+44,Sat,2024-04-20,15:00:00,Sunderland,Millwall
+44,Sat,2024-04-20,15:00:00,Huddersfield,Swansea City
+44,Sat,2024-04-20,15:00:00,Cardiff City,Southampton
+44,Sat,2024-04-20,15:00:00,Stoke City,Plymouth Argyle
+44,Sat,2024-04-20,15:00:00,Coventry City,Ipswich Town
+44,Sat,2024-04-20,15:00:00,Blackburn,Sheffield Weds
+44,Sat,2024-04-20,15:00:00,Watford,Hull City
+44,Sat,2024-04-20,15:00:00,Leicester City,West Brom
+44,Sat,2024-04-20,15:00:00,Norwich City,Bristol City
+45,Sat,2024-04-27,15:00:00,Sheffield Weds,West Brom
+45,Sat,2024-04-27,15:00:00,Blackburn,Coventry City
+45,Sat,2024-04-27,15:00:00,Millwall,Plymouth Argyle
+45,Sat,2024-04-27,15:00:00,Watford,Sunderland
+45,Sat,2024-04-27,15:00:00,Norwich City,Swansea City
+45,Sat,2024-04-27,15:00:00,Bristol City,Rotherham Utd
+45,Sat,2024-04-27,15:00:00,Hull City,Ipswich Town
+45,Sat,2024-04-27,15:00:00,Southampton,Stoke City
+45,Sat,2024-04-27,15:00:00,QPR,Leeds United
+45,Sat,2024-04-27,15:00:00,Huddersfield,Birmingham City
+45,Sat,2024-04-27,15:00:00,Cardiff City,Middlesbrough
+45,Sat,2024-04-27,15:00:00,Preston,Leicester City
+46,Sat,2024-05-04,15:00:00,West Brom,Preston
+46,Sat,2024-05-04,15:00:00,Leeds United,Southampton
+46,Sat,2024-05-04,15:00:00,Plymouth Argyle,Hull City
+46,Sat,2024-05-04,15:00:00,Coventry City,QPR
+46,Sat,2024-05-04,15:00:00,Stoke City,Bristol City
+46,Sat,2024-05-04,15:00:00,Leicester City,Blackburn
+46,Sat,2024-05-04,15:00:00,Birmingham City,Norwich City
+46,Sat,2024-05-04,15:00:00,Swansea City,Millwall
+46,Sat,2024-05-04,15:00:00,Ipswich Town,Huddersfield
+46,Sat,2024-05-04,15:00:00,Sunderland,Sheffield Weds
+46,Sat,2024-05-04,15:00:00,Rotherham Utd,Cardiff City
+46,Sat,2024-05-04,15:00:00,Middlesbrough,Watford

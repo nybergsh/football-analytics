@@ -1,0 +1,313 @@
+gameweek,weekday,match_date,start_time,home_team,home_xg,home_score,away_team,away_xg,away_score,attendance,venue,referee
+1,Fri,2023-08-04,20:00:00,Sheffield Weds,0.5,1,Southampton,1.4,2,28558,Hillsborough Stadium,Robert Madley
+1,Sat,2023-08-05,15:00:00,Bristol City,0.9,1,Preston,1.3,1,29359,Ashton Gate Stadium,David Webb
+1,Sat,2023-08-05,15:00:00,Plymouth Argyle,2.4,3,Huddersfield,2.0,1,16446,Home Park,Matt Donohue
+1,Sat,2023-08-05,15:00:00,Stoke City,2.4,4,Rotherham Utd,0.9,1,22601,Bet365 Stadium,John Busby
+1,Sat,2023-08-05,15:00:00,Middlesbrough,0.8,0,Millwall,1.2,1,29359,Riverside Stadium,Gavin Ward
+1,Sat,2023-08-05,15:00:00,Watford,2.9,4,QPR,0.4,0,20087,Vicarage Road Stadium,Thomas Bramall
+1,Sat,2023-08-05,15:00:00,Blackburn,1.6,2,West Brom,0.8,1,16741,Ewood Park,Dean Whitestone
+1,Sat,2023-08-05,15:00:00,Norwich City,2.6,2,Hull City,0.4,1,25892,Carrow Road,Keith Stroud
+1,Sat,2023-08-05,15:00:00,Swansea City,1.3,1,Birmingham City,0.8,1,18051,Swansea.com Stadium,James Linington
+1,Sun,2023-08-06,12:00:00,Leicester City,1.5,2,Coventry City,1.8,1,31763,King Power Stadium,Darren Bond
+1,Sun,2023-08-06,14:30:00,Leeds United,1.7,2,Cardiff City,1.2,2,36368,Elland Road,Joshua Smith
+1,Sun,2023-08-06,17:00:00,Sunderland,1.9,1,Ipswich Town,1.2,2,44407,Stadium of Light,Samuel Barrott
+2,Sat,2023-08-12,12:30:00,Coventry City,0.9,3,Middlesbrough,1.3,0,24080,Coventry Building Society Arena,Dean Whitestone
+2,Sat,2023-08-12,15:00:00,Huddersfield,1.2,0,Leicester City,1.4,1,19541,The John Smith's Stadium,David Webb
+2,Sat,2023-08-12,15:00:00,West Brom,1.9,3,Swansea City,2.1,2,24051,The Hawthorns,Samuel Barrott
+2,Sat,2023-08-12,15:00:00,Cardiff City,2.0,1,QPR,1.3,2,21230,Cardiff City Stadium,Oliver Langford
+2,Sat,2023-08-12,15:00:00,Watford,1.2,0,Plymouth Argyle,1.0,0,19446,Vicarage Road Stadium,Geoff Eltringham
+2,Sat,2023-08-12,15:00:00,Ipswich Town,2.0,2,Stoke City,0.6,0,29006,Portman Road Stadium,Joshua Smith
+2,Sat,2023-08-12,15:00:00,Preston,0.7,2,Sunderland,1.6,1,19892,Deepdale Stadium,James Linington
+2,Sat,2023-08-12,15:00:00,Rotherham Utd,0.7,2,Blackburn,2.6,2,10828,AESSEAL New York Stadium,Robert Madley
+2,Sat,2023-08-12,15:00:00,Hull City,2.0,4,Sheffield Weds,0.5,2,20410,MKM Stadium,Matt Donohue
+2,Sat,2023-08-12,15:00:00,Southampton,3.7,4,Norwich City,2.0,4,30113,St. Mary's Stadium,Darren England
+2,Sat,2023-08-12,15:00:00,Millwall,0.5,0,Bristol City,0.9,1,18905,The Den,Keith Stroud
+2,Sat,2023-08-12,15:00:00,Birmingham City,1.6,1,Leeds United,0.4,0,20451,St Andrew's Trillion Trophy Stadium,Tim Robinson
+3,Fri,2023-08-18,20:00:00,Leeds United,1.8,1,West Brom,0.3,1,33890,Elland Road,Matt Donohue
+3,Sat,2023-08-19,12:30:00,Plymouth Argyle,1.4,1,Southampton,2.0,2,16392,Home Park,David Webb
+3,Sat,2023-08-19,15:00:00,Leicester City,0.7,2,Cardiff City,1.1,1,31595,King Power Stadium,Graham Scott
+3,Sat,2023-08-19,15:00:00,Stoke City,0.9,1,Watford,0.7,0,21183,Bet365 Stadium,James Bell
+3,Sat,2023-08-19,15:00:00,Bristol City,0.8,0,Birmingham City,1.3,2,22397,Ashton Gate Stadium,Samuel Barrott
+3,Sat,2023-08-19,15:00:00,Middlesbrough,2.0,1,Huddersfield,1.2,1,26257,Riverside Stadium,Joshua Smith
+3,Sat,2023-08-19,15:00:00,Swansea City,0.7,1,Coventry City,0.9,1,16736,Swansea.com Stadium,Robert Madley
+3,Sat,2023-08-19,15:00:00,QPR,0.9,0,Ipswich Town,1.3,1,16790,MATRADE Loftus Road Stadium,Geoff Eltringham
+3,Sat,2023-08-19,15:00:00,Sunderland,1.4,2,Rotherham Utd,0.6,1,40688,Stadium of Light,Gavin Ward
+3,Sat,2023-08-19,15:00:00,Blackburn,1.6,1,Hull City,2.1,2,13943,Ewood Park,Oliver Langford
+3,Sat,2023-08-19,15:00:00,Sheffield Weds,0.5,0,Preston,0.4,1,25138,Hillsborough Stadium,Jeremy Simpson
+3,Sun,2023-08-20,12:00:00,Norwich City,1.7,3,Millwall,0.5,1,26218,Carrow Road,Tony Harrington
+4,Fri,2023-08-25,19:30:00,Hull City,1.5,1,Bristol City,3.6,1,19491,MKM Stadium,James Linington
+4,Sat,2023-08-26,15:00:00,Preston,0.6,2,Swansea City,0.3,1,14464,Deepdale Stadium,Joshua Smith
+4,Sat,2023-08-26,15:00:00,Ipswich Town,2.4,3,Leeds United,1.6,4,29606,Portman Road Stadium,Robert Madley
+4,Sat,2023-08-26,15:00:00,Rotherham Utd,0.6,1,Leicester City,1.4,2,11418,AESSEAL New York Stadium,Simon Hooper
+4,Sat,2023-08-26,15:00:00,Huddersfield,1.0,0,Norwich City,2.5,4,18708,The John Smith's Stadium,Dean Whitestone
+4,Sat,2023-08-26,15:00:00,Cardiff City,1.9,2,Sheffield Weds,0.8,1,21058,Cardiff City Stadium,Darren Bond
+4,Sat,2023-08-26,15:00:00,Coventry City,1.6,0,Sunderland,0.7,0,25714,Coventry Building Society Arena,Keith Stroud
+4,Sat,2023-08-26,15:00:00,Birmingham City,2.2,2,Plymouth Argyle,1.6,1,20685,St Andrew's Trillion Trophy Stadium,John Busby
+4,Sat,2023-08-26,15:00:00,Millwall,1.0,1,Stoke City,1.6,0,15254,The Den,David Webb
+4,Sat,2023-08-26,15:00:00,West Brom,0.6,4,Middlesbrough,1.8,2,23691,The Hawthorns,Jeremy Simpson
+4,Sat,2023-08-26,15:00:00,Southampton,0.4,2,QPR,0.6,1,30401,St. Mary's Stadium,James Bell
+4,Sun,2023-08-27,12:00:00,Watford,1.4,0,Blackburn,0.4,1,17810,Vicarage Road Stadium,Gavin Ward
+5,Sat,2023-09-02,12:30:00,Birmingham City,1.7,1,Millwall,0.5,1,18710,St Andrew's Trillion Trophy Stadium,Joshua Smith
+5,Sat,2023-09-02,12:30:00,Swansea City,1.4,1,Bristol City,2.3,2,16676,Swansea.com Stadium,Oliver Langford
+5,Sat,2023-09-02,12:30:00,Sunderland,1.9,5,Southampton,0.8,0,41459,Stadium of Light,David Coote
+5,Sat,2023-09-02,15:00:00,Coventry City,2.2,3,Watford,1.4,3,24539,Coventry Building Society Arena,David Webb
+5,Sat,2023-09-02,15:00:00,Rotherham Utd,0.6,2,Norwich City,1.5,1,11016,AESSEAL New York Stadium,Samuel Barrott
+5,Sat,2023-09-02,15:00:00,Ipswich Town,2.7,3,Cardiff City,2.1,2,28011,Portman Road Stadium,Gavin Ward
+5,Sat,2023-09-02,15:00:00,Leicester City,1.2,0,Hull City,0.3,1,31318,King Power Stadium,John Busby
+5,Sat,2023-09-02,15:00:00,Plymouth Argyle,1.3,3,Blackburn,1.8,0,16067,Home Park,Stephen Martin
+5,Sat,2023-09-02,15:00:00,West Brom,1.1,1,Huddersfield,0.9,2,23094,The Hawthorns,James Linington
+5,Sat,2023-09-02,15:00:00,Stoke City,1.4,0,Preston,1.9,2,22957,Bet365 Stadium,Matt Donohue
+5,Sat,2023-09-02,15:00:00,Middlesbrough,1.5,0,QPR,0.7,2,25671,Riverside Stadium,Thomas Bramall
+5,Sat,2023-09-02,15:00:00,Leeds United,1.2,0,Sheffield Weds,0.9,0,36484,Elland Road,Dean Whitestone
+6,Fri,2023-09-15,19:45:00,Hull City,1.5,1,Coventry City,0.6,1,21888,MKM Stadium,Tony Harrington
+6,Fri,2023-09-15,20:00:00,Southampton,1.6,1,Leicester City,4.1,4,28877,St. Mary's Stadium,Robert Madley
+6,Sat,2023-09-16,15:00:00,Huddersfield,2.1,2,Rotherham Utd,0.4,0,19050,The John Smith's Stadium,Jeremy Simpson
+6,Sat,2023-09-16,15:00:00,Blackburn,2.9,2,Middlesbrough,2.5,1,16348,Ewood Park,James Bell
+6,Sat,2023-09-16,15:00:00,Preston,1.7,2,Plymouth Argyle,1.8,1,17542,Deepdale Stadium,Gavin Ward
+6,Sat,2023-09-16,15:00:00,Bristol City,0.8,0,West Brom,0.7,0,21836,Ashton Gate Stadium,Anthony Backhouse
+6,Sat,2023-09-16,15:00:00,Sheffield Weds,0.5,0,Ipswich Town,1.8,1,25938,Hillsborough Stadium,James Linington
+6,Sat,2023-09-16,15:00:00,Watford,0.4,2,Birmingham City,0.8,0,18932,Vicarage Road Stadium,Keith Stroud
+6,Sat,2023-09-16,15:00:00,Norwich City,1.2,1,Stoke City,1.2,0,25816,Carrow Road,Oliver Langford
+6,Sat,2023-09-16,15:00:00,QPR,0.3,1,Sunderland,2.8,3,16383,MATRADE Loftus Road Stadium,Dean Whitestone
+6,Sat,2023-09-16,19:45:00,Cardiff City,1.5,2,Swansea City,0.6,0,28648,Cardiff City Stadium,Samuel Barrott
+6,Sun,2023-09-17,12:00:00,Millwall,0.4,0,Leeds United,2.3,3,17909,The Den,Chris Kavanagh
+7,Tue,2023-09-19,19:45:00,Bristol City,1.6,4,Plymouth Argyle,0.6,1,23017,Ashton Gate Stadium,Matt Donohue
+7,Tue,2023-09-19,19:45:00,Southampton,0.8,0,Ipswich Town,0.7,1,27265,St. Mary's Stadium,Joshua Smith
+7,Tue,2023-09-19,19:45:00,Cardiff City,0.6,3,Coventry City,0.9,2,18297,Cardiff City Stadium,Samuel Allison
+7,Tue,2023-09-19,19:45:00,QPR,1.0,1,Swansea City,0.6,1,13367,MATRADE Loftus Road Stadium,Andrew Kitchen
+7,Tue,2023-09-19,19:45:00,Preston,0.6,2,Birmingham City,1.1,1,15838,Deepdale Stadium,Dean Whitestone
+7,Tue,2023-09-19,20:00:00,Sheffield Weds,1.3,1,Middlesbrough,0.7,1,22975,Hillsborough Stadium,David Webb
+7,Wed,2023-09-20,19:45:00,Hull City,1.3,0,Leeds United,1.5,0,24221,MKM Stadium,Stephen Martin
+7,Wed,2023-09-20,19:45:00,Watford,0.9,2,West Brom,0.6,2,16742,Vicarage Road Stadium,Leigh Doughty
+7,Wed,2023-09-20,19:45:00,Huddersfield,1.0,2,Stoke City,2.3,2,18791,The John Smith's Stadium,Darren Bond
+7,Wed,2023-09-20,19:45:00,Blackburn,2.8,1,Sunderland,1.6,3,15621,Ewood Park,John Busby
+7,Wed,2023-09-20,19:45:00,Millwall,1.5,3,Rotherham Utd,0.4,0,12563,The Den,Geoff Eltringham
+7,Wed,2023-09-20,20:00:00,Norwich City,0.9,0,Leicester City,2.3,2,26277,Carrow Road,Graham Scott
+8,Fri,2023-09-22,20:00:00,Birmingham City,1.1,0,QPR,1.0,0,19803,St Andrew's Trillion Trophy Stadium,Matt Donohue
+8,Sat,2023-09-23,15:00:00,Plymouth Argyle,3.2,6,Norwich City,1.9,2,16469,Home Park,Andrew Kitchen
+8,Sat,2023-09-23,15:00:00,Middlesbrough,3.0,2,Southampton,1.4,1,26141,Riverside Stadium,Tim Robinson
+8,Sat,2023-09-23,15:00:00,West Brom,1.4,0,Millwall,1.0,0,22325,The Hawthorns,Tom Nield
+8,Sat,2023-09-23,15:00:00,Leicester City,2.3,1,Bristol City,0.3,0,31674,King Power Stadium,James Bell
+8,Sat,2023-09-23,15:00:00,Swansea City,2.0,3,Sheffield Weds,0.7,0,16865,Swansea.com Stadium,Anthony Backhouse
+8,Sat,2023-09-23,15:00:00,Rotherham Utd,0.1,1,Preston,1.8,1,11434,AESSEAL New York Stadium,Samuel Allison
+8,Sat,2023-09-23,15:00:00,Leeds United,2.6,3,Watford,0.2,0,36236,Elland Road,Jeremy Simpson
+8,Sat,2023-09-23,15:00:00,Ipswich Town,2.9,4,Blackburn,0.9,3,28792,Portman Road Stadium,Keith Stroud
+8,Sun,2023-09-24,12:00:00,Stoke City,0.6,1,Hull City,1.3,3,21142,Bet365 Stadium,Thomas Bramall
+8,Sun,2023-09-24,15:00:00,Sunderland,1.2,0,Cardiff City,1.7,1,41581,Stadium of Light,Steve Martin
+8,Mon,2023-09-25,20:00:00,Coventry City,2.0,1,Huddersfield,0.7,1,22257,Coventry Building Society Arena,Oliver Langford
+9,Fri,2023-09-29,20:00:00,Sheffield Weds,0.5,0,Sunderland,1.6,3,25987,Hillsborough Stadium,Samuel Barrott
+9,Sat,2023-09-30,12:30:00,Southampton,1.5,3,Leeds United,0.9,1,30372,St. Mary's Stadium,John Brooks
+9,Sat,2023-09-30,15:00:00,Watford,1.3,2,Middlesbrough,1.3,3,18446,Vicarage Road Stadium,Oliver Langford
+9,Sat,2023-09-30,15:00:00,Norwich City,1.3,2,Birmingham City,1.1,0,26231,Carrow Road,Gavin Ward
+9,Sat,2023-09-30,15:00:00,Huddersfield,1.2,1,Ipswich Town,1.3,1,20000,The John Smith's Stadium,Geoff Eltringham
+9,Sat,2023-09-30,15:00:00,Cardiff City,1.2,2,Rotherham Utd,0.6,0,20136,Cardiff City Stadium,Leigh Doughty
+9,Sat,2023-09-30,15:00:00,Preston,0.4,0,West Brom,1.5,4,16658,Deepdale Stadium,Joshua Smith
+9,Sat,2023-09-30,15:00:00,QPR,1.0,1,Coventry City,1.5,3,16293,MATRADE Loftus Road Stadium,Tom Nield
+9,Sat,2023-09-30,15:00:00,Millwall,1.5,0,Swansea City,1.2,3,14803,The Den,John Busby
+9,Sat,2023-09-30,15:00:00,Bristol City,1.3,2,Stoke City,1.0,3,21117,Ashton Gate Stadium,Jeremy Simpson
+9,Sat,2023-09-30,15:00:00,Hull City,1.7,1,Plymouth Argyle,0.8,1,20312,MKM Stadium,David Webb
+9,Sun,2023-10-01,12:00:00,Blackburn,1.4,1,Leicester City,1.8,4,15937,Ewood Park,James Linington
+10,Tue,2023-10-03,19:45:00,Birmingham City,1.7,4,Huddersfield,2.1,1,15944,St Andrew's Trillion Trophy Stadium,Samuel Allison
+10,Tue,2023-10-03,19:45:00,Middlesbrough,2.2,2,Cardiff City,0.6,0,24276,Riverside Stadium,Andy Madley
+10,Tue,2023-10-03,19:45:00,Plymouth Argyle,0.8,0,Millwall,1.1,2,15891,Home Park,Oliver Langford
+10,Tue,2023-10-03,19:45:00,Ipswich Town,1.2,3,Hull City,0.9,0,27070,Portman Road Stadium,Matt Donohue
+10,Tue,2023-10-03,20:00:00,Stoke City,0.7,0,Southampton,0.9,1,20002,Bet365 Stadium,James Bell
+10,Tue,2023-10-03,20:00:00,West Brom,1.2,1,Sheffield Weds,0.2,0,22558,The Hawthorns,John Busby
+10,Wed,2023-10-04,19:45:00,Leicester City,1.5,3,Preston,0.4,0,30380,King Power Stadium,Thomas Bramall
+10,Wed,2023-10-04,19:45:00,Sunderland,1.2,2,Watford,0.4,0,38120,Stadium of Light,Andrew Davies
+10,Wed,2023-10-04,19:45:00,Leeds United,2.0,1,QPR,0.3,0,32663,Elland Road,David Webb
+10,Wed,2023-10-04,19:45:00,Swansea City,2.5,2,Norwich City,1.6,1,14512,Swansea.com Stadium,Tom Nield
+10,Wed,2023-10-04,19:45:00,Coventry City,1.2,1,Blackburn,0.7,0,22370,Coventry Building Society Arena,Jeremy Simpson
+10,Wed,2023-10-04,20:00:00,Rotherham Utd,1.3,1,Bristol City,1.1,2,9221,AESSEAL New York Stadium,Dean Whitestone
+11,Fri,2023-10-06,20:00:00,Birmingham City,1.5,3,West Brom,1.2,1,21495,St Andrew's Trillion Trophy Stadium,James Linington
+11,Sat,2023-10-07,12:30:00,Sunderland,0.5,0,Middlesbrough,2.4,4,43584,Stadium of Light,Jarred Gillett
+11,Sat,2023-10-07,15:00:00,Southampton,3.1,1,Rotherham Utd,0.1,1,28404,St. Mary's Stadium,John Busby
+11,Sat,2023-10-07,15:00:00,Leicester City,2.4,2,Stoke City,0.2,0,31589,King Power Stadium,Geoff Eltringham
+11,Sat,2023-10-07,15:00:00,Leeds United,2.5,2,Bristol City,0.5,1,36386,Elland Road,Keith Stroud
+11,Sat,2023-10-07,15:00:00,Ipswich Town,2.4,4,Preston,0.3,2,29018,Portman Road Stadium,David Webb
+11,Sat,2023-10-07,15:00:00,Millwall,1.2,2,Hull City,1.1,2,15204,The Den,Tim Robinson
+11,Sat,2023-10-07,15:00:00,Cardiff City,0.7,1,Watford,2.0,1,19804,Cardiff City Stadium,Gavin Ward
+11,Sat,2023-10-07,15:00:00,QPR,1.1,0,Blackburn,2.3,4,15376,MATRADE Loftus Road Stadium,Joshua Smith
+11,Sat,2023-10-07,15:00:00,Coventry City,1.7,1,Norwich City,0.6,1,26548,Coventry Building Society Arena,Dean Whitestone
+11,Sat,2023-10-07,15:00:00,Sheffield Weds,0.6,0,Huddersfield,0.7,0,26025,Hillsborough Stadium,Matt Donohue
+11,Sat,2023-10-07,15:00:00,Plymouth Argyle,1.3,1,Swansea City,2.1,3,16463,Home Park,Lewis Smith
+12,Sat,2023-10-21,12:30:00,Preston,0.5,1,Millwall,0.3,1,14427,Deepdale Stadium,Matt Donohue
+12,Sat,2023-10-21,15:00:00,Stoke City,0.7,2,Sunderland,1.9,1,25512,Bet365 Stadium,Graham Scott
+12,Sat,2023-10-21,15:00:00,West Brom,0.8,0,Plymouth Argyle,0.4,0,24732,The Hawthorns,Stephen Martin
+12,Sat,2023-10-21,15:00:00,Watford,0.4,1,Sheffield Weds,0.4,0,19102,Vicarage Road Stadium,Dean Whitestone
+12,Sat,2023-10-21,15:00:00,Bristol City,0.4,1,Coventry City,0.6,0,22718,Ashton Gate Stadium,David Webb
+12,Sat,2023-10-21,15:00:00,Middlesbrough,2.0,1,Birmingham City,0.2,0,28449,Riverside Stadium,Rebecca Welch
+12,Sat,2023-10-21,15:00:00,Norwich City,0.9,2,Leeds United,1.5,3,26758,Carrow Road,John Busby
+12,Sat,2023-10-21,15:00:00,Hull City,1.2,1,Southampton,1.5,2,21524,MKM Stadium,Geoff Eltringham
+12,Sat,2023-10-21,15:00:00,Blackburn,1.1,1,Cardiff City,0.7,0,13572,Ewood Park,Robert Madley
+12,Sat,2023-10-21,15:00:00,Swansea City,0.7,1,Leicester City,2.9,3,18509,Swansea.com Stadium,Anthony Backhouse
+12,Sat,2023-10-21,15:00:00,Huddersfield,1.0,2,QPR,1.3,1,18010,The John Smith's Stadium,Gavin Ward
+13,Tue,2023-10-24,19:45:00,Norwich City,0.5,1,Middlesbrough,1.3,2,25585,Carrow Road,Simon Hooper
+13,Tue,2023-10-24,19:45:00,Huddersfield,1.6,0,Cardiff City,1.4,4,16780,The John Smith's Stadium,Anthony Backhouse
+13,Tue,2023-10-24,19:45:00,Swansea City,0.7,0,Watford,0.7,1,14698,Swansea.com Stadium,Andrew Kitchen
+13,Tue,2023-10-24,19:45:00,Millwall,1.8,1,Blackburn,1.1,2,13834,The Den,Andrew Davies
+13,Tue,2023-10-24,20:00:00,Leicester City,1.3,1,Sunderland,1.0,0,30951,King Power Stadium,Keith Stroud
+13,Tue,2023-10-24,20:00:00,West Brom,2.9,2,QPR,0.2,0,21749,The Hawthorns,James Bell
+13,Wed,2023-10-25,19:45:00,Bristol City,0.8,0,Ipswich Town,1.7,1,22784,Ashton Gate Stadium,Joshua Smith
+13,Wed,2023-10-25,19:45:00,Preston,0.8,2,Southampton,0.8,2,15346,Deepdale Stadium,Jeremy Simpson
+13,Wed,2023-10-25,19:45:00,Plymouth Argyle,1.0,3,Sheffield Weds,1.1,0,16225,Home Park,James Linington
+13,Wed,2023-10-25,19:45:00,Birmingham City,0.6,0,Hull City,1.2,2,19530,St Andrew's Trillion Trophy Stadium,John Busby
+13,Wed,2023-10-25,19:45:00,Rotherham Utd,1.4,2,Coventry City,2.5,0,10553,AESSEAL New York Stadium,Lewis Smith
+13,Wed,2023-10-25,20:00:00,Stoke City,0.8,1,Leeds United,1.8,0,25871,Bet365 Stadium,Paul Tierney
+14,Sat,2023-10-28,12:30:00,Leeds United,1.7,4,Huddersfield,0.9,1,36813,Elland Road,James Bell
+14,Sat,2023-10-28,12:30:00,Southampton,2.3,3,Birmingham City,0.6,1,28924,St. Mary's Stadium,David Webb
+14,Sat,2023-10-28,15:00:00,Ipswich Town,2.0,3,Plymouth Argyle,1.6,2,29027,Portman Road Stadium,Gavin Ward
+14,Sat,2023-10-28,15:00:00,Sunderland,2.6,3,Norwich City,0.7,1,39871,Stadium of Light,Anthony Backhouse
+14,Sat,2023-10-28,15:00:00,Watford,2.1,2,Millwall,0.9,2,18620,Vicarage Road Stadium,Keith Stroud
+14,Sat,2023-10-28,15:00:00,Cardiff City,1.0,2,Bristol City,0.8,0,25803,Cardiff City Stadium,Darren England
+14,Sat,2023-10-28,15:00:00,QPR,0.4,1,Leicester City,1.0,2,17385,MATRADE Loftus Road Stadium,Leigh Doughty
+14,Sat,2023-10-28,15:00:00,Hull City,0.5,1,Preston,0.4,0,24267,MKM Stadium,Lewis Smith
+14,Sat,2023-10-28,15:00:00,Blackburn,1.7,0,Swansea City,1.0,1,13102,Ewood Park,Stephen Martin
+14,Sat,2023-10-28,15:00:00,Middlesbrough,1.0,0,Stoke City,1.4,2,26732,Riverside Stadium,Andrew Kitchen
+14,Sun,2023-10-29,13:00:00,Sheffield Weds,2.6,2,Rotherham Utd,0.4,0,29038,Hillsborough Stadium,Andrew Davies
+14,Mon,2023-10-30,20:00:00,Coventry City,1.8,0,West Brom,2.0,2,23971,Coventry Building Society Arena,Peter Bankes
+15,Fri,2023-11-03,20:00:00,Leicester City,0.6,0,Leeds United,1.4,1,32011,King Power Stadium,Dean Whitestone
+15,Sat,2023-11-04,15:00:00,Swansea City,0.9,0,Sunderland,1.9,0,16974,Swansea.com Stadium,Robert Madley
+15,Sat,2023-11-04,15:00:00,Huddersfield,0.1,0,Watford,0.4,0,18225,The John Smith's Stadium,Sunny Gill
+15,Sat,2023-11-04,15:00:00,Millwall,0.5,0,Southampton,1.1,1,18905,The Den,James Linington
+15,Sat,2023-11-04,15:00:00,Rotherham Utd,0.5,1,QPR,1.0,1,10199,AESSEAL New York Stadium,Samuel Barrott
+15,Sat,2023-11-04,15:00:00,Birmingham City,0.9,2,Ipswich Town,1.6,2,20940,St Andrew's Trillion Trophy Stadium,Leigh Doughty
+15,Sat,2023-11-04,15:00:00,Plymouth Argyle,1.0,3,Middlesbrough,2.5,3,16471,Home Park,Darren England
+15,Sat,2023-11-04,15:00:00,Bristol City,1.6,1,Sheffield Weds,1.3,0,22322,Ashton Gate Stadium,Lewis Smith
+15,Sat,2023-11-04,15:00:00,Stoke City,0.4,0,Cardiff City,0.4,0,23089,Bet365 Stadium,Oliver Langford
+15,Sat,2023-11-04,15:00:00,West Brom,1.0,3,Hull City,0.5,1,23333,The Hawthorns,Andrew Kitchen
+15,Sat,2023-11-04,15:00:00,Preston,2.2,3,Coventry City,2.3,2,16716,Deepdale Stadium,Anthony Taylor
+15,Sun,2023-11-05,12:00:00,Norwich City,1.3,1,Blackburn,1.4,3,25696,Carrow Road,Joshua Smith
+12,Tue,2023-11-07,20:00:00,Rotherham Utd,1.2,2,Ipswich Town,0.9,2,10800,AESSEAL New York Stadium,Graham Scott
+16,Fri,2023-11-10,20:00:00,Blackburn,1.5,1,Preston,1.1,2,20596,Ewood Park,Thomas Bramall
+16,Sat,2023-11-11,12:30:00,Sunderland,3.0,3,Birmingham City,1.3,1,40922,Stadium of Light,Dean Whitestone
+16,Sat,2023-11-11,15:00:00,Coventry City,1.1,0,Stoke City,0.7,0,25003,Coventry Building Society Arena,Anthony Backhouse
+16,Sat,2023-11-11,15:00:00,Leeds United,1.7,2,Plymouth Argyle,1.4,1,36718,Elland Road,Joshua Smith
+16,Sat,2023-11-11,15:00:00,Middlesbrough,0.9,1,Leicester City,0.8,0,30042,Riverside Stadium,Oliver Langford
+16,Sat,2023-11-11,15:00:00,Ipswich Town,3.8,3,Swansea City,1.6,2,28925,Portman Road Stadium,Sunny Gill
+16,Sat,2023-11-11,15:00:00,Sheffield Weds,1.6,0,Millwall,1.8,4,25678,Hillsborough Stadium,Gavin Ward
+16,Sat,2023-11-11,15:00:00,Watford,2.2,5,Rotherham Utd,0.7,0,17349,Vicarage Road Stadium,Stephen Martin
+16,Sat,2023-11-11,15:00:00,Southampton,1.1,2,West Brom,2.0,1,30160,St. Mary's Stadium,Tom Nield
+16,Sat,2023-11-11,15:00:00,Hull City,1.4,1,Huddersfield,0.1,0,20630,MKM Stadium,Matt Donohue
+16,Sat,2023-11-11,15:00:00,QPR,0.4,0,Bristol City,0.4,0,17540,MATRADE Loftus Road Stadium,Geoff Eltringham
+16,Sat,2023-11-11,15:00:00,Cardiff City,1.3,2,Norwich City,3.4,3,21271,Cardiff City Stadium,Rebecca Welch
+17,Fri,2023-11-24,20:00:00,Rotherham Utd,0.7,1,Leeds United,1.6,1,11471,AESSEAL New York Stadium,Oliver Langford
+17,Sat,2023-11-25,15:00:00,Stoke City,0.8,0,Blackburn,1.7,3,22652,Bet365 Stadium,Andrew Kitchen
+17,Sat,2023-11-25,15:00:00,Bristol City,1.9,3,Middlesbrough,0.8,2,21694,Ashton Gate Stadium,John Busby
+17,Sat,2023-11-25,15:00:00,Swansea City,1.3,2,Hull City,1.4,2,14864,Swansea.com Stadium,Dean Whitestone
+17,Sat,2023-11-25,15:00:00,Norwich City,0.8,1,QPR,0.6,0,25650,Carrow Road,Stephen Martin
+17,Sat,2023-11-25,15:00:00,Huddersfield,0.5,1,Southampton,1.5,1,19387,The John Smith's Stadium,David Webb
+17,Sat,2023-11-25,15:00:00,Leicester City,2.9,2,Watford,0.8,0,31577,King Power Stadium,Samuel Allison
+17,Sat,2023-11-25,15:00:00,Birmingham City,1.5,2,Sheffield Weds,2.0,1,20941,St Andrew's Trillion Trophy Stadium,Rebecca Welch
+17,Sat,2023-11-25,15:00:00,Preston,0.5,1,Cardiff City,0.8,2,14593,Deepdale Stadium,Robert Madley
+17,Sat,2023-11-25,15:00:00,Plymouth Argyle,0.8,2,Sunderland,1.8,0,16457,Home Park,James Bell
+17,Sat,2023-11-25,15:00:00,Millwall,1.4,0,Coventry City,2.6,3,18067,The Den,Darren England
+17,Sat,2023-11-25,17:30:00,West Brom,1.7,2,Ipswich Town,0.2,0,24001,The Hawthorns,Gavin Ward
+18,Tue,2023-11-28,19:45:00,QPR,2.2,4,Stoke City,0.8,2,16901,MATRADE Loftus Road Stadium,James Linington
+18,Tue,2023-11-28,19:45:00,Middlesbrough,3.0,4,Preston,0.2,0,24502,Riverside Stadium,Andrew Kitchen
+18,Tue,2023-11-28,19:45:00,Hull City,3.7,4,Rotherham Utd,0.5,1,19766,MKM Stadium,Rebecca Welch
+18,Tue,2023-11-28,19:45:00,Coventry City,1.4,1,Plymouth Argyle,0.6,0,22790,Coventry Building Society Arena,Andrew Davies
+18,Tue,2023-11-28,19:45:00,Cardiff City,0.5,0,West Brom,1.2,1,18248,Cardiff City Stadium,Joshua Smith
+18,Tue,2023-11-28,20:00:00,Watford,1.6,3,Norwich City,0.6,2,16714,Vicarage Road Stadium,Simon Hooper
+18,Wed,2023-11-29,19:45:00,Leeds United,2.4,3,Swansea City,0.3,1,34905,Elland Road,Samuel Allison
+18,Wed,2023-11-29,19:45:00,Sheffield Weds,1.5,1,Leicester City,1.1,1,26036,Hillsborough Stadium,Samuel Barrott
+18,Wed,2023-11-29,19:45:00,Southampton,0.7,1,Bristol City,0.8,0,28047,St. Mary's Stadium,Keith Stroud
+18,Wed,2023-11-29,19:45:00,Sunderland,2.6,1,Huddersfield,0.9,2,37728,Stadium of Light,Matt Donohue
+18,Wed,2023-11-29,19:45:00,Blackburn,1.6,4,Birmingham City,1.3,2,12693,Ewood Park,Leigh Doughty
+18,Wed,2023-11-29,20:00:00,Ipswich Town,1.3,3,Millwall,0.4,1,27702,Portman Road Stadium,Thomas Bramall
+19,Fri,2023-12-01,20:00:00,Preston,0.3,0,QPR,1.3,2,14280,Deepdale Stadium,Joshua Smith
+19,Sat,2023-12-02,12:30:00,West Brom,1.0,1,Leicester City,1.3,2,24382,The Hawthorns,Tim Robinson
+19,Sat,2023-12-02,15:00:00,Southampton,2.5,2,Cardiff City,0.8,0,28659,St. Mary's Stadium,James Bell
+19,Sat,2023-12-02,15:00:00,Millwall,0.8,1,Sunderland,1.6,1,17815,The Den,James Linington
+19,Sat,2023-12-02,15:00:00,Sheffield Weds,1.0,3,Blackburn,1.5,1,24507,Hillsborough Stadium,David Webb
+19,Sat,2023-12-02,15:00:00,Leeds United,3.0,3,Middlesbrough,1.5,2,36812,Elland Road,Darren England
+19,Sat,2023-12-02,15:00:00,Hull City,1.9,1,Watford,0.6,2,20057,MKM Stadium,John Busby
+19,Sat,2023-12-02,15:00:00,Plymouth Argyle,1.8,2,Stoke City,2.2,1,16371,Home Park,Samuel Barrott
+19,Sat,2023-12-02,15:00:00,Birmingham City,0.6,0,Rotherham Utd,1.1,0,20748,St Andrew's Trillion Trophy Stadium,Andrew Davies
+19,Sat,2023-12-02,15:00:00,Ipswich Town,1.7,2,Coventry City,1.3,1,29378,Portman Road Stadium,Andrew Kitchen
+19,Sat,2023-12-02,15:00:00,Swansea City,1.6,1,Huddersfield,0.3,1,14725,Swansea.com Stadium,Steve Martin
+19,Sun,2023-12-03,13:30:00,Bristol City,1.1,1,Norwich City,1.1,2,20424,Ashton Gate Stadium,Gavin Ward
+20,Fri,2023-12-08,20:00:00,Coventry City,1.2,2,Birmingham City,0.5,0,26729,Coventry Building Society Arena,Samuel Allison
+20,Sat,2023-12-09,12:30:00,Sunderland,1.4,2,West Brom,0.6,1,40101,Stadium of Light,Darren Bond
+20,Sat,2023-12-09,12:30:00,Blackburn,0.7,0,Leeds United,1.0,2,20963,Ewood Park,Robert Madley
+20,Sat,2023-12-09,15:00:00,Cardiff City,0.8,1,Millwall,1.5,0,19426,Cardiff City Stadium,Andrew Kitchen
+20,Sat,2023-12-09,15:00:00,Norwich City,1.3,0,Preston,0.8,0,25761,Carrow Road,Oliver Langford
+20,Sat,2023-12-09,15:00:00,Stoke City,1.8,0,Sheffield Weds,0.8,1,22347,Bet365 Stadium,David Coote
+20,Sat,2023-12-09,15:00:00,Rotherham Utd,0.5,1,Swansea City,2.0,2,9414,AESSEAL New York Stadium,Joshua Smith
+20,Sat,2023-12-09,15:00:00,Leicester City,3.0,4,Plymouth Argyle,1.2,0,31265,King Power Stadium,Sunny Gill
+20,Sat,2023-12-09,15:00:00,QPR,0.8,2,Hull City,0.8,0,16967,MATRADE Loftus Road Stadium,James Bell
+20,Sat,2023-12-09,15:00:00,Huddersfield,0.4,1,Bristol City,1.1,1,17429,The John Smith's Stadium,Andrew Davies
+20,Sat,2023-12-09,15:00:00,Watford,0.6,1,Southampton,0.8,1,19797,Vicarage Road Stadium,Geoff Eltringham
+20,Sat,2023-12-09,15:00:00,Middlesbrough,0.5,0,Ipswich Town,0.9,2,27960,Riverside Stadium,Dean Whitestone
+21,Tue,2023-12-12,19:45:00,Watford,1.5,1,Ipswich Town,1.8,2,18109,Vicarage Road Stadium,Darren England
+21,Tue,2023-12-12,19:45:00,Stoke City,2.7,1,Swansea City,0.7,1,18555,Bet365 Stadium,David Webb
+21,Tue,2023-12-12,19:45:00,Blackburn,1.3,2,Bristol City,0.8,1,11092,Ewood Park,James Linington
+21,Tue,2023-12-12,19:45:00,Rotherham Utd,0.1,0,West Brom,0.5,2,9567,AESSEAL New York Stadium,Samuel Barrott
+21,Tue,2023-12-12,19:45:00,Huddersfield,0.6,1,Preston,0.5,3,17549,The John Smith's Stadium,John Busby
+21,Tue,2023-12-12,20:00:00,Sunderland,1.2,1,Leeds United,0.6,0,40531,Stadium of Light,Dean Whitestone
+21,Wed,2023-12-13,19:45:00,Norwich City,1.6,3,Sheffield Weds,1.4,1,25521,Carrow Road,Matt Donohue
+21,Wed,2023-12-13,19:45:00,Leicester City,2.0,3,Millwall,1.3,2,28960,King Power Stadium,Keith Stroud
+21,Wed,2023-12-13,19:45:00,Cardiff City,1.0,0,Birmingham City,1.9,1,17669,Cardiff City Stadium,Stephen Martin
+21,Wed,2023-12-13,19:45:00,Coventry City,0.6,1,Southampton,0.7,1,23996,Coventry Building Society Arena,Ben Toner
+21,Wed,2023-12-13,19:45:00,QPR,1.4,0,Plymouth Argyle,0.7,0,16339,MATRADE Loftus Road Stadium,Tony Harrington
+21,Wed,2023-12-13,20:00:00,Middlesbrough,1.3,1,Hull City,1.2,2,24158,Riverside Stadium,Oliver Langford
+22,Sat,2023-12-16,12:30:00,Ipswich Town,2.1,2,Norwich City,0.8,2,29611,Portman Road Stadium,Joshua Smith
+22,Sat,2023-12-16,15:00:00,Plymouth Argyle,2.6,3,Rotherham Utd,1.5,2,16025,Home Park,Gavin Ward
+22,Sat,2023-12-16,15:00:00,Leeds United,1.6,1,Coventry City,0.5,1,36700,Elland Road,Geoff Eltringham
+22,Sat,2023-12-16,15:00:00,Southampton,3.9,4,Blackburn,0.7,0,27545,St. Mary's Stadium,Graham Scott
+22,Sat,2023-12-16,15:00:00,Hull City,1.9,3,Cardiff City,0.7,0,20352,MKM Stadium,Keith Stroud
+22,Sat,2023-12-16,15:00:00,Bristol City,1.0,1,Sunderland,1.0,0,22701,Ashton Gate Stadium,Steve Martin
+22,Sat,2023-12-16,15:00:00,Sheffield Weds,1.3,2,QPR,0.4,1,24739,Hillsborough Stadium,Andrew Davies
+22,Sat,2023-12-16,15:00:00,Swansea City,1.3,1,Middlesbrough,1.1,2,15084,Swansea.com Stadium,Matt Donohue
+22,Sat,2023-12-16,15:00:00,Preston,2.1,1,Watford,3.3,5,14389,Deepdale Stadium,Sunny Gill
+22,Sat,2023-12-16,15:00:00,Millwall,1.4,1,Huddersfield,1.5,1,15040,The Den,Darren Bond
+22,Sun,2023-12-17,12:00:00,West Brom,1.3,1,Stoke City,0.4,1,23298,The Hawthorns,Andrew Kitchen
+22,Mon,2023-12-18,20:00:00,Birmingham City,0.5,2,Leicester City,2.3,3,20334,St Andrew's Trillion Trophy Stadium,David Webb
+23,Fri,2023-12-22,19:45:00,Bristol City,1.6,3,Hull City,1.8,2,20816,Ashton Gate Stadium,Ben Toner
+23,Fri,2023-12-22,19:45:00,Swansea City,0.8,2,Preston,0.4,1,15098,Swansea.com Stadium,Robert Madley
+23,Sat,2023-12-23,12:30:00,Leeds United,1.9,4,Ipswich Town,0.1,0,36758,Elland Road,Stephen Martin
+23,Sat,2023-12-23,15:00:00,Leicester City,3.0,3,Rotherham Utd,0.0,0,31175,King Power Stadium,Darren Bond
+23,Sat,2023-12-23,15:00:00,QPR,0.4,0,Southampton,1.6,1,17745,MATRADE Loftus Road Stadium,Oliver Langford
+23,Sat,2023-12-23,15:00:00,Blackburn,0.9,1,Watford,2.1,2,17803,Ewood Park,Dean Whitestone
+23,Sat,2023-12-23,15:00:00,Sunderland,2.4,0,Coventry City,1.6,3,41216,Stadium of Light,Matt Donohue
+23,Sat,2023-12-23,15:00:00,Sheffield Weds,0.8,1,Cardiff City,0.7,2,26009,Hillsborough Stadium,Samuel Barrott
+23,Sat,2023-12-23,15:00:00,Middlesbrough,2.1,1,West Brom,0.3,0,29145,Riverside Stadium,James Linington
+23,Sat,2023-12-23,15:00:00,Stoke City,0.9,0,Millwall,0.3,0,21409,Bet365 Stadium,Geoff Eltringham
+23,Sat,2023-12-23,15:00:00,Norwich City,2.3,2,Huddersfield,0.1,0,26067,Carrow Road,Thomas Kirk
+23,Sat,2023-12-23,15:00:00,Plymouth Argyle,1.6,3,Birmingham City,1.8,3,16589,Home Park,Graham Scott
+24,Tue,2023-12-26,12:30:00,Preston,0.4,2,Leeds United,1.3,1,21816,Deepdale Stadium,Joshua Smith
+24,Tue,2023-12-26,13:00:00,Millwall,1.4,2,QPR,0.6,0,17432,The Den,Thomas Bramall
+24,Tue,2023-12-26,15:00:00,Watford,0.9,1,Bristol City,1.3,4,19626,Vicarage Road Stadium,John Busby
+24,Tue,2023-12-26,15:00:00,Hull City,0.8,0,Sunderland,1.0,1,24420,MKM Stadium,Sunny Gill
+24,Tue,2023-12-26,15:00:00,Huddersfield,1.2,3,Blackburn,0.5,0,20516,The John Smith's Stadium,Darren England
+24,Tue,2023-12-26,15:00:00,Rotherham Utd,0.1,1,Middlesbrough,1.3,0,11487,AESSEAL New York Stadium,Andrew Kitchen
+24,Tue,2023-12-26,15:00:00,Coventry City,0.5,2,Sheffield Weds,1.3,0,29208,Coventry Building Society Arena,Oliver Langford
+24,Tue,2023-12-26,15:00:00,Southampton,2.0,5,Swansea City,0.4,0,30279,St. Mary's Stadium,Keith Stroud
+24,Tue,2023-12-26,15:00:00,West Brom,2.0,1,Norwich City,0.5,0,25086,The Hawthorns,James Bell
+24,Tue,2023-12-26,15:00:00,Cardiff City,1.2,2,Plymouth Argyle,1.2,2,23583,Cardiff City Stadium,Andrew Davies
+24,Tue,2023-12-26,17:15:00,Birmingham City,1.6,1,Stoke City,1.2,3,21640,St Andrew's Trillion Trophy Stadium,Robert Madley
+24,Tue,2023-12-26,19:45:00,Ipswich Town,1.1,1,Leicester City,0.3,1,29410,Portman Road Stadium,Samuel Barrott
+25,Fri,2023-12-29,18:00:00,Southampton,2.9,2,Plymouth Argyle,0.5,1,30559,St. Mary's Stadium,James Linington
+25,Fri,2023-12-29,19:45:00,Rotherham Utd,1.3,1,Sunderland,0.3,1,11323,AESSEAL New York Stadium,Tony Harrington
+25,Fri,2023-12-29,19:45:00,Coventry City,2.1,2,Swansea City,1.2,2,25807,Coventry Building Society Arena,Thomas Kirk
+25,Fri,2023-12-29,19:45:00,Huddersfield,0.8,1,Middlesbrough,1.4,2,20045,The John Smith's Stadium,Ben Toner
+25,Fri,2023-12-29,19:45:00,Birmingham City,0.1,0,Bristol City,1.1,0,21231,St Andrew's Trillion Trophy Stadium,Geoff Eltringham
+25,Fri,2023-12-29,19:45:00,Preston,0.5,0,Sheffield Weds,0.5,1,19763,Deepdale Stadium,Rebecca Welch
+25,Fri,2023-12-29,19:45:00,Hull City,1.6,3,Blackburn,0.9,2,21876,MKM Stadium,Matt Donohue
+25,Fri,2023-12-29,19:45:00,Watford,1.4,1,Stoke City,0.8,1,19643,Vicarage Road Stadium,Scott Oldham
+25,Fri,2023-12-29,19:45:00,Millwall,2.2,1,Norwich City,0.6,0,17715,The Den,Dean Whitestone
+25,Fri,2023-12-29,19:45:00,Cardiff City,0.4,0,Leicester City,1.7,2,24656,Cardiff City Stadium,John Busby
+25,Fri,2023-12-29,19:45:00,Ipswich Town,0.6,0,QPR,0.4,0,29100,Portman Road Stadium,David Webb
+25,Fri,2023-12-29,20:15:00,West Brom,1.3,1,Leeds United,1.0,0,25409,The Hawthorns,Graham Scott
+26,Mon,2024-01-01,12:30:00,Sunderland,0.5,2,Preston,0.5,0,42714,Stadium of Light,Oliver Langford
+26,Mon,2024-01-01,15:00:00,Plymouth Argyle,2.1,3,Watford,1.7,3,16355,Home Park,Robert Madley
+26,Mon,2024-01-01,15:00:00,Stoke City,0.3,0,Ipswich Town,0.6,0,23121,Bet365 Stadium,James Bell
+26,Mon,2024-01-01,15:00:00,Blackburn,3.1,2,Rotherham Utd,1.4,2,13054,Ewood Park,Jarred Gillett
+26,Mon,2024-01-01,15:00:00,Leeds United,2.8,3,Birmingham City,0.5,0,36086,Elland Road,Keith Stroud
+26,Mon,2024-01-01,15:00:00,Norwich City,0.8,1,Southampton,2.5,1,26467,Carrow Road,Darren England
+26,Mon,2024-01-01,15:00:00,Bristol City,0.5,0,Millwall,0.6,1,21755,Ashton Gate Stadium,Tom Nield
+26,Mon,2024-01-01,15:00:00,Middlesbrough,1.6,1,Coventry City,2.1,3,28409,Riverside Stadium,David Webb
+26,Mon,2024-01-01,15:00:00,Leicester City,2.0,4,Huddersfield,1.0,1,30407,King Power Stadium,Samuel Allison
+26,Mon,2024-01-01,15:00:00,Swansea City,0.7,1,West Brom,1.9,0,16797,Swansea.com Stadium,Andrew Davies
+26,Mon,2024-01-01,15:00:00,QPR,0.8,1,Cardiff City,0.5,2,16849,MATRADE Loftus Road Stadium,Andrew Kitchen
+26,Mon,2024-01-01,17:15:00,Sheffield Weds,1.2,3,Hull City,0.9,1,27489,Hillsborough Stadium,Darren Bond
